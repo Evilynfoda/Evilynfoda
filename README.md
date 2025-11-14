@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Evilyn
 
-<img align='center' src="https://incluir-link-do-seu-avatar-aqui.png" width="215">
+<img align='center' src="https://github.com/Evilynfoda/Evilynfoda/blob/main/octocat-1763125840805.png" width="215">
 
 
 ## 🌍 Sobre mim

@@ -1,5 +1,8 @@
 # 👋 Olá, eu sou a Evilyn
 
+<img align='center' src="https://incluir-link-do-seu-avatar-aqui.png" width="215">
+
+
 ## 🌍 Sobre mim
 - 💻 Estudante do curso tecnico de desenvolvimento de sistemas 
 - 🛠️ Gostaria de contribuir em projetos open source (traduções, documentação e código)  
